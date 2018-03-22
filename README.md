@@ -1,4 +1,4 @@
-# Helping Hand - by the McMaster Dream Team
+# Helping Hands Toronto - by the McMaster Dream Team
 
 ## ECCE App Challenge 2018
 
@@ -28,7 +28,7 @@ https://esricanada-ce.github.io/appchallenge/2018/teams/mac/Dream_Team/app/
 If any problems come up, check out the [Esri Web App Builder FAQ](https://developers.arcgis.com/web-appbuilder/guide/faqs.htm) documentation.
 
 ## Explore Resources
-Use the *Layer List* button in the top right corner to go through the list of available community resources. Simply check the box next to the desired resource to control what shows up as icons on the map. You can see what each icon represents through the nearby *Legend* button.
+Once you've opened the app, use the *Layer List* button in the top right corner to go through the list of available community resources. Simply check the box next to the desired resource to control what shows up as icons on the map. You can see what each icon represents through the nearby *Legend* button.
 
 ## Find Specific Resources
 Click on the green *Query* button to open a drop-down menu, and select the type of resource you want to search through. You can then search for specific facilities through their name, address, or other characteristics. Clicking on one of the results creates a pop-up with more information on the resource.
