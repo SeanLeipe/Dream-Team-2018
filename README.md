@@ -1,4 +1,6 @@
-# ECCE App Challenge 2018 - Dream Team
+# Helping Hand - by the Dream Team
+
+## ECCE App Challenge 2018
 
 ### Team Members
 Mark Borthwick, Jayden Choi, Sean Leipe, Chandler Podhorodeski
@@ -7,7 +9,7 @@ Mark Borthwick, Jayden Choi, Sean Leipe, Chandler Podhorodeski
 
 Life in Canada’s largest city is rarely easy with an unfortunate one in five Toronto residents currently living in poverty. For those struggling to make ends meet, it can be difficult to secure all necessities of western life such as sufficient nutrition, educational resources, and shelter on a daily basis. Currently, many government and private services exist in Toronto that aim to assist low-income residents in one or more areas. The issue is that all too often those in need do not realize these services exist, let alone where to access them until their situation becomes dire.
 
-Our application’s goal is to create an easy-to-use tool that consolidates community resources for at-risk or lower-income families in Toronto, based on open geospatial data hosted by the city. These resources include public libraries, licensed child-care services, youth services, supportive housing locations, and more (a full list is under the **Data Sources** section). This app gives a convenient way to either find specific locations through a search based on their name, street address, etc., or by giving a full list of all the different resources available with a specified distance of a location.
+**Helping Hand's goal** is to create an easy-to-use tool that consolidates community resources for at-risk or lower-income families in Toronto, based on open geospatial data hosted by the city. These resources include public libraries, licensed child-care services, youth services, supportive housing locations, and more (a full list is under the **Data Sources** section). This app gives a convenient way to either find specific locations through a search based on their name, street address, etc., or by giving a full list of all the different resources available with a specified distance of a location.
 
 # User Guide
 
@@ -66,7 +68,7 @@ The web app interface uses the following widgets:
 
 * **Splash screen**: to introduce the user to the app
 * **Share**: gives a shareable link to the web app on ArcGIS Online
-* Layer List 
+* **Layer List**: to let the user control which layers are visible 
 * **Legend**:
 * **Query**: to search for specific resources
 * **Nearby**: to find resources within a specific distance of and obtain information and driving directions
