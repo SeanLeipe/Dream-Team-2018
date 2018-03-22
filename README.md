@@ -18,13 +18,16 @@ Click the link below to access our app through ArcGIS Online!
 
 ### *Using the WAB Developer Edition*
 1. Download the *app.zip* file from the repository and extract its contents.
+2. Navigate to the *webappbuilderforGIS* file.
+3. Click on the *startup.bat* file, which will open a link in your browser.
 
-If any problems come up, check out the [Esri Web App Builder FAQ](https://developers.arcgis.com/web-appbuilder/guide/faqs.htm) documentation. 
+If any problems come up, check out the [Esri Web App Builder FAQ](https://developers.arcgis.com/web-appbuilder/guide/faqs.htm) documentation.
 
 ## Explore Resources
 Use the *Layer List* button on the top right to go through the list of available community resources. Simply check the box next to the desired resource to control what shows up as icons on the map. You can see what each icon represents through the nearby *Legend* button.
 
 ## Find Specific Resources
+Click on the green Query button to open a drop-down menu, and select the type of resource you want to search through. You can then search for specific locations through their name, address, or other characteristics. Clicking on one of the results creates a pop-up with more information on the resource.
 
 ## Find Nearby Resources
 Click on the blue *Nearby* widget at the bottom of the screen, and either enter your address or click on the map. Use the slider below to decide how far of a distance from your location you want to find resources in.
@@ -33,13 +36,13 @@ After selecting the distance, the tool will give you a list of all the community
 
 For driving directions to your desired location, simply click on the *Directions* tab and step-by-step instructions will show up in the tool window. These can be printed out for reference by using the Print icon in the top right corner of the pop-up.
 
-For walking directions, copy the open the address given from the Nearby results and open the orange *Directions* widget. Set your start point, paste the address as the end point, and select Walking Directions from the drop-down list.
+For walking directions, copy the open the address given from either the *Nearby* or *Query* results and open the orange *Directions* widget. Set your start point, paste the address as the end point, and select Walking Directions from the drop-down list.
 
 # App Characteristics
 
-This app creates an easy way to access....
+This app creates an easy way to explore community resources in Toronto
 
-Though any of these specific locations could be found using a Google search, there is currently no way 
+Though any of these specific locations could be found using a Google search, this app lets you explore any of the 10 different resource types, 
 
 ## Data Sources
 
