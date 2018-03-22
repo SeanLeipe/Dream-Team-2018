@@ -7,7 +7,7 @@ Mark Borthwick, Jayden Choi, Sean Leipe, Chandler Podhorodeski
 
 # Mission Statement
 
-Life in Canada’s largest city is rarely easy with an one in five Toronto residents currently living in poverty. For those struggling to make ends meet, it can be difficult to secure all necessities of western life such as sufficient nutrition, educational resources, and shelter on a daily basis. Currently, many government and private services exist in Toronto that aim to assist low-income residents in one or more areas. The issue is that all too often those in need do not realize these services exist, let alone where to access them until their situation becomes dire.
+Life in Canada’s largest city is rarely easy, with one in five Toronto residents currently living in poverty. For those struggling to make ends meet, it can be difficult to secure all necessities of western life such as sufficient nutrition, educational resources, and shelter on a daily basis. Currently, many government and private services exist in Toronto that aim to assist low-income residents in one or more areas. The issue is that all too often those in need do not realize these services exist, let alone where to access them until their situation becomes dire.
 
 The goal of **Helping Hands Toronto** is to create an easy-to-use tool that consolidates community resources for at-risk or lower-income families in Toronto, based on open geospatial data hosted by the city. These resources include public libraries, licensed child-care services, youth services, supportive housing locations, and more (for a full list, see **Data Sources**). This app is a convenient interface for displaying the various available services and their locations, identifying and filtering amenities within a given radius of a user-defined location as well as provide directions from a location to a desired facility. Users may also locate services via a search function according to a number of attributes including name, street address, and service type.
 
@@ -65,6 +65,8 @@ This app was designed using the Developer Edition of the ArcGIS Web App Builder.
 * Supportive housing locations
 
 For some point layers, key attribute information such as names, email addresses, websites, etc. were either unavailable or formatted incorrectly. This issue was corrected using Arcade expressions with conditional logic.
+
+**Disclaimer**: *Helping Hands Toronto* is not affiliated with any of the City of Toronto organisations or social programs refrenced within the app. This application was created strictly for educational purposes in conjunction with the 2018 ECCE App Challenge. 
 
 ## Widgets Used
 
