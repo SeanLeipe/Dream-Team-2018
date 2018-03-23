@@ -21,9 +21,14 @@ Click the link below to access our app through ArcGIS Online!
 https://esricanada-ce.github.io/appchallenge/2018/teams/mac/Dream_Team/app/
 
 ### *Using the WAB Developer Edition*
+The following instructions assume that the user has the latest version of the Esri Web App Builder (Developer Edition) successfully installed on their device.
+
 1. Download the *app.zip* file from the repository and extract its contents.
-2. Navigate to the *webappbuilderforGIS* file.
+2. Open the folder containing the latest version of the WAB.
 3. Click on the *startup.bat* file, which will open a link in your browser.
+4. Enter your organization's login information into the pop-up.
+5. In the Developer window, select the *Import Application* option.
+6. Import the zipped file containing the **Helping Hands Toronto** application.
 
 If any problems come up, check out the [Esri Web App Builder FAQ](https://developers.arcgis.com/web-appbuilder/guide/faqs.htm) documentation.
 
